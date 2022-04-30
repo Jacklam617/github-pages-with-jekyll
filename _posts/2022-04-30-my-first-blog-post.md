@@ -1,5 +1,4 @@
----
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
----
+date: 2132-11-20
+
 asd
